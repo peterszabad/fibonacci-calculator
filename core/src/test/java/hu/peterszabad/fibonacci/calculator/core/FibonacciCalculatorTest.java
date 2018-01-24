@@ -1,4 +1,4 @@
-package hu.peterszabad.fibonacci.calculator;
+package hu.peterszabad.fibonacci.calculator.core;
 
 import org.junit.Test;
 
